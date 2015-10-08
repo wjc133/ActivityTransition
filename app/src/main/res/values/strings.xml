@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActivityTransition</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ripple_sample_info">涟漪效果演示</string>
+    <string name="ripple_btn_b1">不设置背景</string>
+    <string name="ripple_btn_b2">涟漪有边界</string>
+    <string name="ripple_btn_b3">涟漪无边界</string>
+    <string name="ripple_btn_shared">btn_robot</string>
+</resources>
